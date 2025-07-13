@@ -21,38 +21,30 @@ I deployed an AWS OpenSearch domain and configured Logstash to ingest CloudTrail
 
 <p align="center">
 Set up CloudTrail to S3 <br />
-<img src="https://i.imgur.com/yY1Pggt.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yY1Pggt.jpeg" />
 <br />
 <br />
 Create OpenSearch domain <br/>
-<img src="https://i.imgur.com/4VXDR8D.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4VXDR8D.jpeg" />
 <br />
 <br />
 Launch EC2 and install Logstash <br/>
-<img src="https://i.imgur.com/2Grcol8.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2Grcol8.jpeg" />
 <br />
 <br />
 Define index patterns in Kibana <br/>
-<img src="https://i.imgur.com/2Qs6lPW.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2Qs6lPW.jpeg" />
 <br />
 <br />
 <br />
 Enable detection rules <br/>
-<img src="https://i.imgur.com/pg0ib8P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pg0ib8P.png" />
 <br />
 <br />
 Configure real‑time alerts <br/>
-<img src="https://i.imgur.com/7wFIZ4m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7wFIZ4m.png" />
 <br />
 
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
